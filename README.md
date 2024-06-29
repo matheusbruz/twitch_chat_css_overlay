@@ -1,2 +1,6 @@
-# twitch_chat_css_overlay
-Overlay customizável de widget chat para Streamlabs e outros
+
+# Overlay para widget de chat da twitch / youtube no streamlabs
+### Simples de modificar
+
+![preview](/preview1.png)
+![preview](/preview2.png)
